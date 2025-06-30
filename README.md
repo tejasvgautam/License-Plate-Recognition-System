@@ -27,12 +27,7 @@ This system has dual functionality depending on the region:
 - `scipy`
 - `filterpy`
 - `easyocr`
-
-- ** The sort module needs to be downloaded from** [this repository](https://github.com/abewley/sort).
-
-  ```bash
-  git clone https://github.com/abewley/sort
-  ```
+- The **sort** module is already in this Repo. Original [repository](https://github.com/abewley/sort)
 ---
 ### Sample Video:
 > The video should be in `mp4` format

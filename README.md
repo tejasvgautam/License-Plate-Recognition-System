@@ -1,4 +1,4 @@
-# License Plate Recognition System in Python
+# License Plate Recognition System in Python using YOLOv8
 
 ![out_main (3)](https://github.com/user-attachments/assets/f25b5a82-deb4-473f-ba5e-d6f9347efbb0)
 

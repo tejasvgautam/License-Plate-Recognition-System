@@ -3,7 +3,7 @@
 ![out_main (3)](https://github.com/user-attachments/assets/f25b5a82-deb4-473f-ba5e-d6f9347efbb0)
 
 
-## 📦 Models Used
+##  Models Used
 
 - **Vehicle Detection**: [`Coco_model`](https://github.com/ultralytics/yolov5) — a pre-trained COCO dataset model.
 - **License Plate Detection**: YOLOv8 custom-trained model — `license_plate_detector.pt`

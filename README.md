@@ -60,7 +60,7 @@ For Himachal Pradesh License Plates:
 
 - Step 1: Clone this repository.
 - Step 2: Install the required dependencies.
-- Step 3: In the `main_himachal_pradesh.py` file, on `line 10`  replace:
+- Step 3: In the `main_himachal_pradesh.py` file, on `line 10`  you can see the difference:
 
    ```jsx
    from util import get_car, read_license_plate, write_csv
@@ -70,7 +70,7 @@ For Himachal Pradesh License Plates:
    ```jsx
    from util_himachal_pradesh import get_car, read_license_plate, write_csv
    ```
-   A `test_main.csv` file will be formed.
+   Run the `main_himachal_pradesh.py file` & a `test_main.csv` file will be formed.
 - Step 4: Run the `add_missing_data.py` file. A `test_interpolated_main.csv` file will be formed.
   ```python
   python add_missing_data.py
